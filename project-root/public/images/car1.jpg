@@ -1,0 +1,9 @@
+import React from 'react';
+
+const CarImage = () => {
+  return (
+    <img src="/images/car1.jpg" alt="Car 1" />
+  );
+};
+
+export default CarImage;
